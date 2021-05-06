@@ -1,7 +1,7 @@
 /*
-Question: 
+Question: Write a method to replace all the spaces in a string with "%20".
 
-Time complexity: O(n log(n))
+Time complexity: O(n)
 
 Space Complexity: O(n)
 */
